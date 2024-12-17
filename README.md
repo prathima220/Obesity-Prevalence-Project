@@ -1,5 +1,5 @@
 # Capstone_Nss
-# Capstone Project: Analyzing Obesity Prevalence and its Influenmcing Factors Across Countries
+# Capstone Project: Analyzing Obesity Prevalence and its Influencing Factors Across Countries
 
 ## Table of Contents
 1. [Motivation](#Motivation)
@@ -42,7 +42,7 @@ Obesity has become a significant public health issue worldwide, with increasing 
  3.checked the data types, and changed the data types based on the priorities
 
 # Problems and Hurdles
-I was having trouble dowloading the data which has infomation about the deaths by Obesity prevalence, and also i had other data with information about the three countries i.e.,Peru, Mexico and Colombia. Thought of including this in my Analysis, but there are no matching Obesity Prevalence recorded for the main data set that i have, and ended up not working with that dataF
+I was having trouble dowloading the data which has infomation about the deaths by Obesity prevalence, and also i had other data with information about the three countries i.e.,Peru, Mexico and Colombia. Thought of including this in my Analysis, but there are no matching Obesity Prevalence recorded for the main data set that i have, and ended up not working with that data.
 
 # Technologies
 1.Excel: Used for getting basic idea how the dataset looks after directly downloaded from the site
@@ -65,13 +65,12 @@ Daily calorie intake by person
 Population by country
 Daily steps 
 Life expectancy by country
-Monthly income
 Meat consumption
 These datasets were collected over multiple years, allowing for longitudinal analysis from 1990 to 2016.
 
 # Conclusion
-This analysis provides valuable insights and the distribution of Obesity prevalence varies across countries with some countries had the greatest increase in obesity rates over time, and none of the countries had a decrease in Obesity rates over time. There are countries with lowest Obesity rates  overall. The countries had higher 
-Obesity rates in 2015 than compared to 1990. since the Obesity rates are increasing over time. Considering Gdp per capita, daily protein supply, life expectancy, daily calories suplly, population over time,  there is moderate correlation between Gdp per capita and Obesity prevalence, the people in wealthier countries and more developed countries have more access to processed foods and sedentary lifestyles.The correlation between Average steps taken and obesity prevalence is surprisingly very weak, the physical activity alone may not be a predictor of Obesity. 
+This analysis provides valuable insights and the distribution of Obesity prevalence varies across countries with some countries had the greatest increase in obesity rates over time, and none of the countries had a decrease in Obesity rates over time. There are countries with lowest Obesity rates overall. The countries had higher 
+Obesity rates in 2015 than compared to 1990. Since the Obesity rates are increasing over time. Considering Gdp per capita, daily protein supply, life expectancy, daily calories supply, there is moderate correlation between Gdp per capita and Obesity prevalence, the people in wealthier countries and more developed countries have more access to processed foods and sedentary lifestyles.The correlation between Average steps taken and obesity prevalence is surprisingly very weak, the physical activity alone may not be a predictor of Obesity. 
 
 
 
