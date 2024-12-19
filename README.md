@@ -1,6 +1,8 @@
 # Capstone_Nss
 # Capstone Project: Analyzing Obesity Prevalence and its Influencing Factors Across Countries
 
+### Link: https://public.tableau.com/app/profile/prathima.swetha.balaraju/viz/GlobalAnalysisObesityPrevalenceandEconomicCorrelations/GlobalAnalysisObesityPrevalenceandEconomicCorrelations
+
 ## Table of Contents
 1. [Motivation](#Motivation)
 2. [Questions](#Questions)
@@ -37,12 +39,12 @@ Obesity has become a significant public health issue worldwide, with increasing 
 
 
 # Normalizing the Data
- 1.Handling missing data : Miising values are handled through .dropna method 
- 2.Based on the main dataset i have included years starting from 1990 to 2016 only
- 3.checked the data types, and changed the data types based on the priorities
+ 1. Handling missing data : Miising values are handled through .dropna method 
+ 2. Based on the main dataset i have included years starting from 1990 to 2016 only
+ 3. checked the data types, and changed the data types based on the priorities
 
 # Problems and Hurdles
-I was having trouble dowloading the data which has infomation about the deaths by Obesity prevalence, and also i had other data with information about the three countries i.e.,Peru, Mexico and Colombia. Thought of including this in my Analysis, but there are no matching Obesity Prevalence recorded for the main data set that i have, and ended up not working with that data.
+ I was having trouble dowloading the data which has infomation about the deaths by Obesity prevalence, and also i had other data with information about the three countries i.e.,Peru, Mexico and Colombia. Thought of including this in my Analysis, but there are no matching Obesity Prevalence recorded for the main data set that i have, and ended up not working with that data.
 
 # Technologies
 1.Excel: Used for getting basic idea how the dataset looks after directly downloaded from the site
@@ -74,7 +76,7 @@ I was having trouble dowloading the data which has infomation about the deaths b
 5. Daily steps 
 6. Life expectancy by country
 7. Meat consumption
-These datasets were collected over multiple years, allowing for longitudinal analysis from 1990 to 2016.
+   These datasets were collected over multiple years, allowing for longitudinal analysis from 1990 to 2016.
 
 # Conclusion
 This analysis provides valuable insights and the distribution of Obesity prevalence varies across countries with some countries had the greatest increase in obesity rates over time, and none of the countries had a decrease in Obesity rates over time. There are countries with lowest Obesity rates overall. The countries had higher 
